@@ -31,7 +31,7 @@
 	opacity: 1;
 }
 
-.button--border{
+.button_border{
 	background: transparent;
 	position: relative;
 	border: 1px solid #FF3F3A;
@@ -39,8 +39,22 @@
 	padding: 15px 40px;
 	transition: all 0.3s ease 0s;
 }
-.button--border:hover{	
+
+.button_border:hover{	
 	color: #fff;
 	border: 1px solid #FF3F3A;
 	background-color: #FF3F3A;
+}
+
+.subtitle_course {
+	text-transform: uppercase;
+	font-weight: 700;
+	margin-bottom: 20px;
+	color: black;
+}
+
+.title_course {
+	font-size: 46px;
+	font-weight: 900;
+	color: black;
 }
