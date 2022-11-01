@@ -1,4 +1,4 @@
-/* Кнопка помаранчева */
+
 .button{
 	border-radius: 4px;
 	letter-spacing: 0.5px;
@@ -30,7 +30,7 @@
 .button:hover::before {
 	opacity: 1;
 }
-/* Кнопка з границею */
+
 .button--border{
 	background: transparent;
 	position: relative;
