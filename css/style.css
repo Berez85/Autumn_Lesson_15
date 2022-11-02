@@ -219,6 +219,7 @@ body{
 	gap: 20px;
 	align-items: center;
 	justify-content: space-between;
+	flex-wrap: wrap;
 }
 
 .indicators-main__item {}
